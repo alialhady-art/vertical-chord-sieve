@@ -35,7 +35,7 @@ $$k_{\text{max}} = \frac{\sqrt{2W + 1} - 1}{2}$$
 
 The structural symmetry and vertical scanning vectors are illustrated below:
 
-![The Orthogonal Scanning Net](Figure_1.png)
+<p align="center" alt="The Orthogonal Scanning Net" src="images/Figure_1"></p>
 
 *Figure 1: The Orthogonal Scanning Net showing anchor points $A(k)$ on the main diagonal ($45^\circ$) and vertical rays for each order $k$.*
 
