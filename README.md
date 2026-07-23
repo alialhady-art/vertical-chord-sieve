@@ -1,6 +1,6 @@
 # ⚡ Two-Dimensional Lattice Distribution of Primes via Vertical Scanning
 
-[![Zenodo DOI](https://img.shields.io/badge/Zenodo-DOI-blue)](https://zenodo.org/)
+[![Zenodo DOI](https://img.shields.io/badge/Zenodo-DOI-blue)](https://doi.org/10.5281/zenodo.21519862)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
 [![Numba](https://img.shields.io/badge/JIT-Numba%20Parallel-orange.svg)](https://numba.pydata.org/)
@@ -83,11 +83,12 @@ print(f"Time taken: {elapsed_time:.2f} seconds")
 ## 📜 Citation & Research Paper
 If you use this work in your research, please cite the corresponding Zenodo publication:
 
-مقتطف الرمز
+
 @article{vertical_chord_sieve_2026,
-  author    = {Author Name},
+  author    = {Ali Abdul ilah Alhady},
   title     = {Two-Dimensional Lattice Distribution of Primes via Vertical Scanning along the Main Chord Axis A(k)},
   journal   = {Zenodo},
   year      = {2026},
-  doi       = {10.5281/zenodo.xxxxxxx}
+  doi       = {10.5281/zenodo.21519862}
+  url       = {https://doi.org/10.5281/zenodo.21519862}
 }
